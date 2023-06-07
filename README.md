@@ -34,9 +34,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#usage">Usage</a>
@@ -63,13 +60,6 @@ This was built for my personal use, but others might find it useful as well.
 
 
 
-### Built With
-
-* [Go](https://go.dev/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Usage
@@ -80,7 +70,7 @@ https://www.google.com/search?q=go+docs
 ~~~
 Simple as.
 
-### Installation
+## Installation
 
 You are free to download the built binary from the 'build' directory, or you may clone this repo and build it yourself with go.
 
@@ -99,6 +89,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/jfajardo5/goggle.svg?style=for-the-badge
+[license-url]: https://github.com/jfajardo5/goggle/blob/master/LICENSE.txt
 
