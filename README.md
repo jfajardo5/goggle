@@ -16,11 +16,11 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div align="left">
 
-<h3 align="center">Goggle</h3>
+<h3 align="left">Goggle</h3>
 
-  <p align="center">
+  <p align="left">
     For the efficient devs. Get your google searches going without leaving your terminal 💪
     <br />
   </p>
