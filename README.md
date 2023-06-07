@@ -18,7 +18,7 @@
 <br />
 <div align="left">
 
-<h3 align="left">Goggle</h3>
+<h2 align="left">Goggle</h2>
 
   <p align="left">
     For the efficient devs. Get your google searches going without leaving your terminal 💪
