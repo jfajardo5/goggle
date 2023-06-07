@@ -3,7 +3,10 @@ package main
 import (
 	"flag"
 	"fmt"
+	"log"
 	"os"
+	"os/exec"
+	"runtime"
 	"strings"
 )
 
@@ -17,5 +20,25 @@ func main() {
 		flag.Usage()
 		os.Exit(0)
 	}
-	fmt.Println(url + query)
+	err := openBrowser(url + query)
+	if err != nil {
+		log.Fatal(err)
+	}
+}
+
+func openBrowser(url string) error {
+	var err error
+
+	switch runtime.GOOS {
+	case "linux":
+		err = exec.Command("xdg-open", url).Start()
+	case "windows":
+		err = exec.Command("cmd", "/c", "start", url).Start()
+	case "darwin":
+		err = exec.Command("open", url).Start()
+	default:
+		err = fmt.Errorf("unsupported platform")
+	}
+
+	return err
 }

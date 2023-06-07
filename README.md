@@ -52,7 +52,7 @@
 
 Goggle
 
-A quick CLI google search link generator. Speed up your research by creating google query links right in your terminal.
+A quick CLI google search link generator. This app will open your browser at the google search results page you query.
 
 This was built for my personal use, but others might find it useful as well.
 
@@ -66,7 +66,6 @@ This was built for my personal use, but others might find it useful as well.
 
 ~~~
 ➜  ~ goggle go docs                                   
-https://www.google.com/search?q=go+docs
 ~~~
 Simple as.
 
