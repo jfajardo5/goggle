@@ -18,32 +18,13 @@
 <br />
 <div align="left">
 
-<h2 align="left">Goggle</h2>
+<h2 align="left">💪 Goggle</h2>
 
   <p align="left">
-    For the efficient devs. Get your google searches going without leaving your terminal 💪
+    For the lazy devs. Get your google searches going without leaving your terminal!
     <br />
   </p>
 </div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#usage">Usage</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#license">License</a></li>
-  </ol>
-</details>
 
 
 
@@ -57,7 +38,6 @@ A quick CLI google search link generator. This app will open your browser at the
 This was built for my personal use, but others might find it useful as well.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
