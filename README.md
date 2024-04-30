@@ -21,7 +21,7 @@
 <h1 align="left">💪 Goggle</h1>
 
   <p align="left">
-    For the lazy devs. Get your google searches going without leaving your terminal!
+    For the efficient devs. Get your google searches going without leaving your terminal!
     <br />
   </p>
 </div>
